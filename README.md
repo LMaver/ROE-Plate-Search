@@ -3,6 +3,9 @@
 A tool for searching the catalogue of UKST plates located at
 the Royal Observatory of Edinburgh for small bodies
 
+# Update : Nov '23
+'ImprovedUKSTsearch.py' runs faster and has a GUI for ease of use. Run Program, enter small body name(s) and table of plate match results are produced. 
+
 # Included Files
 - PlateSearch.py 
 - UKST_Catalogue.txt
